@@ -1,2 +1,2 @@
 # touch-Less-Computing
-Project for interacting with machines without touch interface - Image Processing
+Project Documentation - interacting with machines without touch interface - Image Processing
